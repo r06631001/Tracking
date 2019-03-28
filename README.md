@@ -20,4 +20,4 @@ OpenCV tracker KCF algoritm
 
 ## [2] Background subtraction
 OpenCV background subtractor
-[Opencv documentation](https://github.com/meow333/Vehicle-detection-and-Motion-tracking-algorithm)
+[Reference page](https://github.com/meow333/Vehicle-detection-and-Motion-tracking-algorithm)
